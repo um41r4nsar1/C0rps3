@@ -59,7 +59,7 @@ An interactive, modular **Open Source Intelligence (OSINT) REPL** framework buil
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/alpharomanticlesscharacterlessdelta/C0rps3.git](https://github.com/alpharomanticlesscharacterlessdelta/C0rps3.git)
+git clone https://github.com/um41r4nsar1/C0rps3.git
 cd C0rps3/C0rps3
 
 ## Step 2: Set Up a Virtual Environment (Recommended)
